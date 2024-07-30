@@ -20,7 +20,9 @@
     
       
   "preinstall": "npx npm-force-resolutions",
-    "start": "node index.js"
+    
+      
+  "start": "node index.js"
     
   },
     
@@ -38,7 +40,7 @@
   "@mapbox/mapbox-sdk": "^0.16.0",
     
       
-  "cloudinary": "^2.3.0",
+  "cloudinary": "^1.21.0",
     
       
   "connect-flash": "^0.1.1",
@@ -77,7 +79,7 @@
   "multer": "^1.4.5-lts.1",
     
       
-  "multer-storage-cloudinary": "^4.0.0",
+  "multer-storage-cloudinary": "^3.0.0",
     
       
   "passport": "^0.7.0",
@@ -93,7 +95,7 @@
   "resolutions": {
     
       
-  "cloudinary": "^2.3.0"
+  "cloudinary": "^1.21.0"
     
   },
     
